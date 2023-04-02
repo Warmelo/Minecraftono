@@ -34,3 +34,12 @@
     color: #961069;
     text-transform: uppercase;
 }
+.navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 100%;
+    background: #970950;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
