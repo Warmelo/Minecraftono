@@ -32,14 +32,14 @@
 }
 .navbar ul li a{
     text-decoration: none;
-    color: #0c5ebb;
+    color: #d30c27;
     text-transform: uppercase;
 }
 .navbar ul li::after{
     content: '';
     height: 3px;
     width: 100%;
-    background: #990e53;
+    background: #074299;
     position: absolute;
     left: 0;
     bottom: -10px;
