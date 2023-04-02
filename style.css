@@ -29,3 +29,8 @@
     display:inline-block;
     margin: 0 20px;
 }
+.navbar ul li a{
+    text-decoration: none;
+    color: #961069;
+    text-transform: uppercase;
+}
