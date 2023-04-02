@@ -4,7 +4,7 @@
     font-family: sans-serif;
    
 }
-body{
+.content{
     box-shadow: 30px 20px 30px 390px rgb(190, 10, 115);
 }
 .banner{
@@ -52,7 +52,7 @@ body{
 .navbar ul li:hover:after{
           width: 100%;
 }
-mineno{
+.mineno{
     float: left;
     
 }
