@@ -11,6 +11,26 @@
     min-height: 100vh;
     background-image: url(images/image.5re.jpg);
 }
+.content{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    transform-style: preserve-3d;
+}
+.content div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100v;
+    transform-style: preserve-3d;
+}
+.cube div p{
+    position: absolute;
+    left: 0;
+    width: 0%;
+    height: 0%;
+    background: linear-gradient(#151515 #00ec00);
+}
 .banner{
     width: 100%;
     height: 100vh;
