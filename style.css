@@ -39,7 +39,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background: #074299;
+    background: #0f3977;
     position: absolute;
     left: 0;
     bottom: -10px;
@@ -47,4 +47,13 @@
 }
 .navbar ul li:hover:after{
           width: 100%;
+}
+mineno{
+    float: left;
+    
+}
+.comer{
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: crimson;
 }
