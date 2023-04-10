@@ -74,5 +74,6 @@
 .nower{
     padding: 30px; margin: 20px;
     background-color:crimson ;
+    box-sizing: 30px 20px;
 
 }
