@@ -13,6 +13,10 @@
     
 }
 
+.content{
+    box-shadow: 17px 36px #da253d
+}
+
 .banner{
     width: 100%;
     height: 100vh;
