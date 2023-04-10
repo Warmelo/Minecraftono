@@ -9,8 +9,8 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(images/image.5re.jpg) ;
-    height: 35px;
+    background-color: #da253d;
+  
 }
 
 .banner{
@@ -21,6 +21,7 @@
     background-position: center;
     background-image: url(images/image.5re.jpg);
     height: 35px;
+
     
 }
 .navbar{
@@ -68,3 +69,8 @@
     text-transform: uppercase;
     color: crimson;
 }
+
+/*
+  background-image: url(images/image.5re.jpg) ;
+
+*/
