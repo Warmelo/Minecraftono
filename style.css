@@ -76,8 +76,8 @@
     background-color:crimson ;
     box-sizing:border-box;
     border-radius: 25px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: darkred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkgreen darkred;
     font-weight: bold;
     line-height: 1.6;
 }
