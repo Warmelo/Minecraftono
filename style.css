@@ -76,14 +76,17 @@
     background-color:crimson ;
     box-sizing:border-box;
     border-radius: 25px;
-  
-
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkred;
+    font-weight: bold;
+    line-height: 1.6;
 }
 .wer{
     padding: 41px;
     margin: 30px;
     box-sizing: border-box;
     border-radius: 33px;
+    line-height: 1.6;
 }
 .hert2{
     font-weight: bolder;
