@@ -79,6 +79,12 @@
   
 
 }
+.wer{
+    padding: 41px;
+    margin: 30px;
+    box-sizing: border-box;
+    border-radius: 33px;
+}
 .hert2{
     font-weight: bolder;
     color:gold ;
